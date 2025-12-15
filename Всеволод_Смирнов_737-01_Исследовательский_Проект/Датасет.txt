@@ -1,0 +1,3 @@
+Брал датасет с Кегель: https://www.kaggle.com/datasets/coni57/f1-2020-race-data?resource=download&select=TelemetryData_11752605864096667831.csv
+
+Я использовал 1 файл с данными телеметрии, загрузил его на Я.Диск: https://disk.360.yandex.ru/d/yaaKaMlyc2Gj4A
